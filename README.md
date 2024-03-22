@@ -2,7 +2,7 @@
 
   Through this CLI project, created with Ruby, you can add songs to a music catalog and then have them displayed by artist, genre, or your full catalog.
   
-  Type run ruby app.rb in the terminal to begin and view the options menu.
+  Type ruby app.rb in the terminal to begin and view the options menu.
   Once you run ruby app.rb in the terminal you will be shown the following options method:
   
      -Music Catalog- 
