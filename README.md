@@ -1,14 +1,17 @@
 # ruby-cli-template
 
   Through this CLI project, created with Ruby, you can add songs to a music catalog and then have them displayed by artist, genre, or your full catalog.
+  
   Type run ruby app.rb in the terminal to begin and view the options menu.
   Once you run ruby app.rb in the terminal you will be shown the following options method:
+  
      -Music Catalog- 
        1. Add a song
        2. Disply by artist
        3. Display by genre
        4. Display full music catalog
        5. Exit
+       
   You must enter a digit 1-5 to correspond with the options menu. If you don't do so, you will be given a message reminding 
   you to use a digit from the options menu. After an option is choosen, once you go through the steps, you will be allowed 
   to choose another option.
