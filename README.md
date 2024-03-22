@@ -1,4 +1,4 @@
-# ruby-cli-template
+# Music-Catalog-CLI-app
 
   Through this CLI project, created with Ruby, you can add songs to a music catalog and then have them displayed by artist, genre, or your full catalog.
   
